@@ -49,6 +49,9 @@ table {
 
 /* Set every element's box-sizing to border-box */
 * {
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
     box-sizing: border-box;
 }
 
@@ -64,3 +67,5 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/*Nav bar*/
