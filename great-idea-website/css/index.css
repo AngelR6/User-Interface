@@ -69,3 +69,46 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 /*Nav bar*/
+
+nav {
+	display: inline-block;
+	width: 89%;
+	margin: 0 5% 0 5%;
+}
+
+nav a {
+	display: inline-block;
+	padding: 0% 11.6% 0% 0%;
+	color: gray;
+	text-decoration: none;
+}
+
+header {
+	width: 89%;
+	height: 50%;
+	display: inline-block;
+	margin: 0 5% 0 5%;
+	border-bottom: 1px solid black;
+}
+
+div.container {
+	width: 89%;
+	height: 100%;
+	padding: 0% 10% 0% 10%;
+	display: inline-block;
+}
+
+div.container h1 {
+	width: 13%;
+	padding: 0% 0% 0% 0%;
+	display: inline-block;
+}
+
+div.container button {
+
+}
+
+div.container img {
+	padding: 0% 0% 0% 0%;
+	display: inline-block;
+}
