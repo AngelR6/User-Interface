@@ -64,9 +64,9 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+/* nav section */
 nav {
-	width: 80%;
+	width: 60%;
 	margin: 0 auto;
 }
 
@@ -76,10 +76,37 @@ nav {
 }
 
 a {
-	margin-left: 140px;
+	color: #4b4b4b;
+	margin-left: 100px;
+	text-decoration: none;
 }
 
 .img-logo {
 	width: 13%;
+	display: inline-block;
+}
+
+/* header section */
+header {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.title {
+	width: 35%;
+	font-size: 5rem;
+	margin: 50px 150px;
+	text-align: center;
+	display: inline-block;
+}
+
+button {
+	width: 150px;
+	height: 30px;
+	margin-bottom: 50px;
+	background-color: #ffffff;
+}
+
+.header-img {
 	display: inline-block;
 }
