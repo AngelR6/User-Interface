@@ -125,12 +125,14 @@ button {
 	width: 49%;
 	margin: 50px 0px 0px 0px;
 	display: inline-block;
+	font-family: 'Sriracha', cursive;
 }
 
 .about {
 	width: 49%;
 	margin: 50px 0px 0px 19px;
 	display: inline-block;
+	font-family: 'Sriracha', cursive;
 }
 
 .middle-img {
@@ -142,18 +144,21 @@ button {
 	width: 30%;
 	margin-bottom: 50px;
 	display: inline-block;
+	font-family: 'Sriracha', cursive;
 }
 
 .product {
 	width: 30%;
 	margin: 0px 0px 50px 53px;
 	display: inline-block;
+	font-family: 'Sriracha', cursive;
 }
 
 .vision {
 	width: 30%;
 	margin: 0px 0px 50px 53px;
 	display: inline-block;
+	font-family: 'Sriracha', cursive;
 }
 /* contact section */
 #contact {
