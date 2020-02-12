@@ -50,11 +50,10 @@ table {
 * {
 	max-width: 100%;
 	box-sizing: border-box;
-	 border: 1px solid black;
+	/* border: 1px solid black; */
 }
 
 html, body {
-    height: 100%;
     font-family: 'Titillium Web', sans-serif;
 }
 
@@ -89,13 +88,14 @@ a {
 /* header section */
 header {
 	width: 60%;
+	height: 440px;
 	margin: 10px auto;
 }
 
 .title {
 	width: 35%;
 	font-size: 5rem;
-	margin: 0px 150px;
+	margin: 40px 150px;
 	text-align: center;
 	display: inline-block;
 }
@@ -103,12 +103,13 @@ header {
 button {
 	width: 150px;
 	height: 30px;
-	margin-bottom: 40px;
+	/* margin-bottom: 40px; */
 	border: 1px solid black;
 	background-color: #ffffff;
 }
 
 .header-img {
+	margin: 0 auto;
 	display: inline-block;
 }
 
@@ -121,14 +122,14 @@ button {
 }
 
 .features {
-	width: 41%;
-	margin: 10px 100px 0px 0px;
+	width: 49%;
+	margin: 50px 0px 0px 0px;
 	display: inline-block;
 }
 
 .about {
-	width: 41%;
-	margin: 10px 0px 0px 100px;
+	width: 49%;
+	margin: 50px 0px 0px 19px;
 	display: inline-block;
 }
 
@@ -139,19 +140,19 @@ button {
 
 .service {
 	width: 30%;
-	margin-bottom: 10px;
+	margin-bottom: 50px;
 	display: inline-block;
 }
 
 .product {
 	width: 30%;
-	margin: 0px 0px 10px 53px;
+	margin: 0px 0px 50px 53px;
 	display: inline-block;
 }
 
 .vision {
 	width: 30%;
-	margin: 0px 0px 10px 53px;
+	margin: 0px 0px 50px 53px;
 	display: inline-block;
 }
 /* contact section */
