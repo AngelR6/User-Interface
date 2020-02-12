@@ -50,7 +50,7 @@ table {
 * {
 	max-width: 100%;
 	box-sizing: border-box;
-	border: 1px solid black;
+	 border: 1px solid black;
 }
 
 html, body {
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5 {
 /* nav section */
 nav {
 	width: 60%;
-	margin: 0 auto;
+	margin: 10px auto;
 }
 
 .links {
@@ -89,13 +89,13 @@ a {
 /* header section */
 header {
 	width: 60%;
-	margin: 0 auto;
+	margin: 10px auto;
 }
 
 .title {
 	width: 35%;
 	font-size: 5rem;
-	margin: 50px 150px;
+	margin: 0px 150px;
 	text-align: center;
 	display: inline-block;
 }
@@ -103,10 +103,66 @@ header {
 button {
 	width: 150px;
 	height: 30px;
-	margin-bottom: 50px;
+	margin-bottom: 40px;
+	border: 1px solid black;
 	background-color: #ffffff;
 }
 
 .header-img {
 	display: inline-block;
+}
+
+/* first section */
+#first-section {
+	width: 60%;
+	margin: 20px auto;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.features {
+	width: 41%;
+	margin: 10px 100px 0px 0px;
+	display: inline-block;
+}
+
+.about {
+	width: 41%;
+	margin: 10px 0px 0px 100px;
+	display: inline-block;
+}
+
+.middle-img {
+	width: 100%;
+	margin: 20px 0px;
+}
+
+.service {
+	width: 30%;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.product {
+	width: 30%;
+	margin: 0px 0px 10px 53px;
+	display: inline-block;
+}
+
+.vision {
+	width: 30%;
+	margin: 0px 0px 10px 53px;
+	display: inline-block;
+}
+/* contact section */
+#contact {
+	width: 60%;
+	margin: 0 auto;
+}
+/* footer section */
+footer {
+	width: 60%;
+	margin: 0 auto;
+	padding: 50px;
+	text-align: center;
 }
